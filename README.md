@@ -9,8 +9,8 @@ Thanks for visiting, and I'd love to connect😁!
 
 ## My Projects so far
 
--[RainyDays store](https://comfy-vacherin-85b853.netlify.app/)
--[Community Science Museum](https://bucolic-marigold-2f9251.netlify.app/)
--[Blog: Design for you](https://dainty-centaur-ec3707.netlify.app/)
+* [RainyDays store](https://comfy-vacherin-85b853.netlify.app/)
+* [Community Science Museum](https://bucolic-marigold-2f9251.netlify.app/)
+* [Blog: Design for you](https://dainty-centaur-ec3707.netlify.app/)
 
 
