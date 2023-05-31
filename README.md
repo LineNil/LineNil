@@ -1,6 +1,8 @@
-### Hi there 👋
-
-## 
+### Hello 👋
+Welcome to my page!
+I'm Line, a Front End developer in training from Norway 🇳🇴. I'm currently a student at Noroff University College and looking forward to starting my exciting developer's journey 👩‍💻.
+Apart from coding, I love design and searching for inspiration for future projects. I also love to spend a lot of time with my family. 👨‍👩‍👧.
+Thanks for visiting, and I'd love to connect😁!
 
 Here are some ideas to get you started:
 
