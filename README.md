@@ -7,6 +7,10 @@ Thanks for visiting, and I'd love to connect😁!
 ## Languages and tools I know so far and continue to learn more about.
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,discord,github,instagram,netlify,linkedin,wordpress)](https://skillicons.dev)
 
+## My Projects so far
 
+-[RainyDays store](https://comfy-vacherin-85b853.netlify.app/)
+-[Community Science Museum](https://bucolic-marigold-2f9251.netlify.app/)
+-[Blog: Design for you](https://dainty-centaur-ec3707.netlify.app/)
 
 
