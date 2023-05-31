@@ -4,6 +4,13 @@ I'm Line, a Front End developer in training from Norway 🇳🇴. I'm currently 
 Apart from coding, I love design and searching for inspiration for future projects. I also love to spend a lot of time with my family. 👨‍👩‍👧.
 Thanks for visiting, and I'd love to connect😁!
 
+## Languages and tools i know so far
+Visual Studio Code HTML5 CSS3 JavaScript GitHub
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
