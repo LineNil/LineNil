@@ -5,7 +5,7 @@ Apart from coding, I love design and searching for inspiration for future projec
 Thanks for visiting, and I'd love to connect😁!
 
 ## Languages and tools I know so far and continue to learn more about.
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,discord,github,instagram,netlify,linkedin,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,discord,github,netlify,linkedin,wordpress)](https://skillicons.dev)
 
 ## My Projects so far
 
