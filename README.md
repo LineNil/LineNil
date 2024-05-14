@@ -8,6 +8,7 @@ Thanks for visiting, and I'd love to connect😁!
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,discord,github,netlify,linkedin,wordpress,react,sass,bootstrap,wcag)](https://skillicons.dev)
 
 
+
 ## My Projects so far
 
 * [RainyDays store](https://comfy-vacherin-85b853.netlify.app/)
